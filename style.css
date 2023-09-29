@@ -1,0 +1,64 @@
+body{
+
+font-family: Arial;
+margin:auto;
+}
+
+        header {
+            background-color: black;
+            color: white;
+            text-align: center;
+            border: black 5px solid;
+            height: 80px;
+            
+        }   
+
+
+        nav {
+            background-color: grey;
+            text-align: center;
+         
+        }
+
+        nav a{
+                
+                color:white; text-decoration:none;  
+        }
+
+        .container {
+        border-radius: 5px;
+        box-shadow:0 0 10px rgb(0, 0, 0, 0.2);
+        width: 1000px;
+        margin:auto;
+        }
+
+        .box {
+        
+                   background-color: rgb(60, 178, 224);
+                   height:55px;
+                   text-align: center;
+                   border: 2px solid;
+                   color: white;
+                   
+        }
+
+        .red-box {
+                background: red;
+                
+                
+                
+        }
+
+        .green-box {
+                background: rgb(27, 238, 27);
+                
+
+        }
+
+        .blue-box {
+            
+                background: darkblue;
+              
+                
+                
+        }
